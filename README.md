@@ -5,6 +5,4 @@ Vagrantfile for creating a simple box running Elasticsearch and Kibana. Uses gee
 ```
 vagrant up
 ```
-Box configuration is 2CPU and 8GB RAM. To adjust change the Vagrantfile accordingly.
-
-To use change the versions of Elasticsearch and Kibana, adjust the install_stack.sh provisioning script.
+Box configuration is 2CPU and 8GB RAM. Adjust box configuration in Vagrantfile as needed.
